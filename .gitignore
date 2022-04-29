@@ -274,5 +274,4 @@ support/media/
 
 .pytest_cache/
 
-support/.env
-support\.env
+.env
